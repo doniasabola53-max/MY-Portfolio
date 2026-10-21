@@ -1,0 +1,19 @@
+.hero-image {
+    width: 320px;
+    height: 320px;
+    object-fit: cover; /* لضمان عدم تمطيط أو تشويه أبعاد الصورة */
+    border: 5px solid #f5f0f0 ;
+}
+.card-img-tcard-imgop{
+    width: 355px;
+    height: 350px;
+    object-fit: cover; /* لضمان عدم تمطيط أو تشويه أبعاد الصورة */
+
+}
+
+.card-img-top{
+     width: 355px;
+    height: 350px;
+    object-fit: cover; /* لضمان عدم تمطيط أو تشويه أبعاد الصورة */
+
+}
